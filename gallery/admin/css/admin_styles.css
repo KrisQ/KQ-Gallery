@@ -1,0 +1,65 @@
+
+
+h2 {
+
+font-family: 'Lobster Two', cursive;
+
+}
+
+h3 {
+
+font-family: 'Lobster Two', cursive;
+
+}
+
+
+
+a {
+
+font-family: 'Lobster Two', cursive;
+
+}
+
+a.btn {
+
+font-family: helvetica;
+
+}
+
+
+.margin-top-login {
+	margin-top: 120px;
+}
+
+.user-image{
+	width: 62px;
+	border-radius: 10px;
+}
+
+.modal-body {
+	overflow: auto;
+	height: 500px !important;
+	min-height: 300px !important;
+}
+
+
+.modal-dialog {
+	width: 90% !important;
+}
+
+.set_user_image{
+	margin:10p
+}
+
+#modal-sidebar {
+	position: fixed !important;
+}
+
+.photto {
+	width: 200px;
+	height: 150px !important;
+}
+}
+
+
+
